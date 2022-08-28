@@ -40,7 +40,8 @@ DJANGO_APPS = [
 ]
 
 LOCAL_APPS = [
-    "proveedores"
+    "proveedores",
+    "materias_primas"
 ]
 
 THIRD_APPS = [

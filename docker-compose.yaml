@@ -19,5 +19,7 @@ services:
       - POSTGRES_DB=postgres
       - POSTGRES_USER=django
       - POSTGRES_PASSWORD=djangopassword
+        # Possible values: *.dev | *.prd
+      - DJANGO_SETTINGS_MODULE=api_core.settings.dev
     depends_on:
       - db

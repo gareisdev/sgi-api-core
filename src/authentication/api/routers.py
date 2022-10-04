@@ -6,6 +6,4 @@ router = routers.DefaultRouter()
 
 router.register("login", LoginViewSet, basename="login")
 
-urlpatterns = [
-    path('', include(router.urls))
-]
+urlpatterns = [path("", include(router.urls))]

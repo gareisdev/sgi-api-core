@@ -23,6 +23,7 @@ jedi = "^0.18.1"
 neovim = "^0.3.1"
 
 
+
 [tool.commitizen]
 name = "cz_conventional_commits"
 version = "0.0.1"

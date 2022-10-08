@@ -1,1 +1,22 @@
 # SGI API CORE
+
+
+See this documentation in spanish [here](./LEEME.md)
+
+
+## What is SGI API CORE?
+
+SGI API CORE (Sistema de Gestion de Insumos in Spanish) is a college project, designed and developed for a factory of medical supplies.
+
+This project use the following technologies:
+
++ Backend
+    + Python
+    + Django
+
++ Database
+    + PostgreSQL
+    + Redis
+
++ Logs management
+    + ELK Stack

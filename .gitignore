@@ -154,3 +154,8 @@ media
 data/
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Python,Django
+data/
+
+# Project
+requirements.txt
+*.bak
